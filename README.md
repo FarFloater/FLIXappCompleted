@@ -21,8 +21,7 @@ The images and titles have rounded corners
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='https://imgur.com/KpkJgR1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+[VIDEO WALKTHROUGH GIF](https://imgur.com/KpkJgR1) created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
