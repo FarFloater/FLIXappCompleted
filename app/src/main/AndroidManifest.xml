@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flixapp">
+    package="com.example.flixapp"
+    >
+
+    <queries>
+        <intent>
+            <action android:name="com.google.android.youtube.api.service.START" />
+        </intent>
+    </queries>
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -11,6 +18,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.FLIXApp">
+        <activity
+            android:name=".DetailActivity"
+            android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

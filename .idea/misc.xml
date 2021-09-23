@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FLIXapp/app/src/main/res/drawable/round_outline.xml" value="0.1859375" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FLIXapp/app/src/main/res/drawable/rounded_corner_view.xml" value="0.1859375" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FLIXapp/app/src/main/res/layout-land/item_movie.xml" value="0.24375" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FLIXapp/app/src/main/res/layout/activity_detail.xml" value="0.16979166666666667" />
         <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FLIXapp/app/src/main/res/layout/activity_main.xml" value="0.16979166666666667" />
         <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FLIXapp/app/src/main/res/layout/item_movie.xml" value="0.25" />
       </map>
