@@ -1,26 +1,31 @@
 # Project 2 - Flix app is an android app that allows user to browse movies that 
-are avaliable. At the moment the application only lets the use view the movie poster,
-read the title, and read a bref description. Plan of finishing with unit 2 submission,
+are avaliable, shows a description, the use can click on the movie and more details
+will appear along with a youtube player, trailers rated higher that 5 stars will
+auto play, and I have input some visuals.
+
 
 Submitted by: **Yaroslav Malev**
-Time spent: **6** hours spent in total
+Time spent: **23** hours spent in total
 
 ## 
 User Stories
-The following **required** functionality is completed:*            [Y] 
-User can **view a list of movie items***                            [Y] 
-User can **API successfully works* [Y] 
-
-
+The following **required** functionality is completed:             
+User can **view a list of movie items**                            
+** The API successfully works**
+The screen properly rotates and adjusts in size
+User can **click on the movie and new page opens**
+**Successfull API of the youtube video                                         
+Trailers rated higher that 5 stars will autoplay
+The images and titles have rounded corners
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='https://imgur.com/u3i5HnL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/KpkJgR1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-Time constraint.
+
 ## 
 
 License
